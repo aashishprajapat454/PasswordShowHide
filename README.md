@@ -28,5 +28,6 @@ To run this project locally, follow these steps:
    git clone https://github.com/aashishprajapat454/PasswordShowHide.git
 
 2. **Nevigate in project**:
+   ```bash
    cd password-hide-show
 
